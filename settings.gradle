@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Durian Species Classification Application"

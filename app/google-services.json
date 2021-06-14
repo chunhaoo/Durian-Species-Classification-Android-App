@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314939201353",
+    "project_id": "durianapp-fyp2",
+    "storage_bucket": "durianapp-fyp2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314939201353:android:d35761e9d5c120e278ac98",
+        "android_client_info": {
+          "package_name": "com.example.durianspeciesclassificationapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314939201353-bp0ppdn4ls3lfaegvued4dcf2iqjmn2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKhf5HuZKW0BHA3xk_zvABxLqBswYfcPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314939201353-bp0ppdn4ls3lfaegvued4dcf2iqjmn2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
